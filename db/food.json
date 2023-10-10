@@ -1,0 +1,17 @@
+[
+    {
+        "food_name": "Tofu",
+        "origin": "China",
+        "food_fact": "In a 0.5 cup serving of Tofu there is NO cholesterol and 10 grams of protein!"
+    },
+    {
+        "food_name": "Cantaloupe",
+        "origin": "Middle East or India",
+        "food_fact": "In a single melon- you can find close to 1,500mg of potassium!"
+    },
+    {
+        "food_name": "Almonds",
+        "origin": "Western Asia",
+        "food_fact": "Almonds are related to peaches!"
+    }
+]

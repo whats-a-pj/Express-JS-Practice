@@ -1,0 +1,17 @@
+[
+    {
+        "animal_name": "Narwhal",
+        "habitat": "Ocean",
+        "diet": "Shrimp, squid, cod and halibut"
+    },
+    {
+        "animal_name": "Tiger",
+        "habitat": "Tropical forests, mangrove swamps and grasslands",
+        "diet": "Deer, antelope, wild boar and even moose"
+    },
+    {
+        "animal_name": "Raccoon",
+        "habitat": "Wooded areas near water sources, and in your attic!",
+        "diet": "Fruits, nuts, grains, birds, fish etc."
+    }
+]
